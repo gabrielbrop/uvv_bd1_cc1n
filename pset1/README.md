@@ -12,3 +12,4 @@ Esta pasta contém três arquivos: `cc1n_202307871_postgresql.architect`, `cc1n_
 2. Clone este repositório: `git clone https://github.com/gabrielbrop/uvv_bd1_cc1n.git`
 3. Acesse o diretório do script SQL: `cd ./uvv_bd1_cc1n/pset1`
 4. Execute o script passando o conteúdo do arquivo do script para o stdin do psql: `psql -U postgres < cc1n_202307871_postgresql.sql`
+5. Digite a senha do usuário `postgres` do DBServer: `computacao@raiz`
